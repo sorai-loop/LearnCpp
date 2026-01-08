@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\1">
+      <UniqueIdentifier>{4c860d5d-7f72-47c0-9ec6-79d507e3a295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2">
+      <UniqueIdentifier>{2db19d17-195c-4433-b22f-ae2d114c1034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3">
+      <UniqueIdentifier>{2ccf7ce9-7193-424d-a1e6-379b4bb0d1db}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HelloWorld.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="1.4.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.5.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.6.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.7.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.9.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.10.cpp">
+      <Filter>ソース ファイル\1</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.5.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.8.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.8_add.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.9.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.11.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.11_add.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.12.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.13.cpp">
+      <Filter>ソース ファイル\2</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.10.cpp">
+      <Filter>ソース ファイル\3</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2.11_add.h">
+      <Filter>ソース ファイル\2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
