@@ -22,6 +22,12 @@
     <Filter Include="ソース ファイル\3">
       <UniqueIdentifier>{2ccf7ce9-7193-424d-a1e6-379b4bb0d1db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\4">
+      <UniqueIdentifier>{ad4730ff-a103-4f00-ae9d-0c0bdae4d52d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\16">
+      <UniqueIdentifier>{fed003f6-3f7b-4468-9788-60a96aa522f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp">
@@ -81,9 +87,6 @@
     <ClCompile Include="2.13.cpp">
       <Filter>ソース ファイル\2</Filter>
     </ClCompile>
-    <ClCompile Include="4.1.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
     <ClCompile Include="3.1.cpp">
       <Filter>ソース ファイル\3</Filter>
     </ClCompile>
@@ -114,20 +117,26 @@
     <ClCompile Include="3.10.cpp">
       <Filter>ソース ファイル\3</Filter>
     </ClCompile>
+    <ClCompile Include="4.1.cpp">
+      <Filter>ソース ファイル\4</Filter>
+    </ClCompile>
     <ClCompile Include="4.2.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\4</Filter>
     </ClCompile>
     <ClCompile Include="4.3.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\4</Filter>
     </ClCompile>
     <ClCompile Include="4.4.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\4</Filter>
     </ClCompile>
     <ClCompile Include="4.5.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\4</Filter>
     </ClCompile>
     <ClCompile Include="4.6.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\4</Filter>
+    </ClCompile>
+    <ClCompile Include="16.1.cpp">
+      <Filter>ソース ファイル\16</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
