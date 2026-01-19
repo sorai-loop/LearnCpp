@@ -138,6 +138,9 @@
     <ClCompile Include="16.1.cpp">
       <Filter>ソース ファイル\16</Filter>
     </ClCompile>
+    <ClCompile Include="16.2.cpp">
+      <Filter>ソース ファイル\16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2.11_add.h">
