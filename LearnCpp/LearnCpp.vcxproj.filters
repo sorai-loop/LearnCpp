@@ -150,6 +150,9 @@
     <ClCompile Include="16.4.cpp">
       <Filter>ソース ファイル\16</Filter>
     </ClCompile>
+    <ClCompile Include="16.5.cpp">
+      <Filter>ソース ファイル\16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2.11_add.h">
